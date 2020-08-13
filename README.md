@@ -28,9 +28,11 @@ Download the code from the repo, and run `npm i inquirer` after navigating to th
   
   ## Usage 
 
-Once the powershell is open, enter `node index.js` into the console and enter in text under the relevant section headers as they appear. If a section does not look satisfactory or was accidentally submitted, a confirmation prompt will always be given allowing the previous section to be rewritten. Please note that this CLI does not catch enter or shift+enter key presses, so doing so may require the section to be retyped. \n
+Once the powershell is open, enter `node index.js` into the console and enter in text under the relevant section headers as they appear. If a section does not look satisfactory or was accidentally submitted, a confirmation prompt will always be given allowing the previous section to be rewritten. Please note that this CLI does not catch enter or shift+enter key presses, so doing so may require the section to be retyped. 
 
-A walkthrough of the application is hosted at this url: https://drive.google.com/file/d/1QvP5dyI1x8159wxAcLw1aMP1sBjKJXs8/view \n 
+
+A walkthrough of the application is hosted at this url: https://drive.google.com/file/d/1QvP5dyI1x8159wxAcLw1aMP1sBjKJXs8/view 
+
 Keep in mind, the harsh console refreshes are a symptom of the screen capture software's frame capture rate.
 
 
