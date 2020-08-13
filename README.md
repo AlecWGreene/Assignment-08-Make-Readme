@@ -17,11 +17,7 @@ This application generates a readme based on user input entered through the Wind
 
   2. [Usage](#usage) 
 
-  3. [Contributing](#contributing) 
-
-  4. [Tests](#tests) 
-
-  5. [Questions](#questions) 
+  3. [Questions](#questions) 
 
   
   ## Installation 
